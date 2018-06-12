@@ -35,7 +35,7 @@ The reference software platform used in this lesson is the open source PostgreSQ
 
 This lesson introduces students to SQL and spatial SQL and illustrates the main commands that are needed to interact with a database. Each command is described and an example shows how it works. At the end, an exercise is proposed to let students experiment by themselves.
 
-Please note that in this lesson just some of the main SQL commands are discussed. If you want to explore more of the magic SQL world you can use one of the many tutorial available on the web. Among the others:
+Please note that in this lesson just some of the main SQL commands are discussed. If you want to explore more of the magic SQL world you can use one of the many tutorials available on the web. Among the others:
 
 * [PostgreSQL official tutorial](https://www.postgresql.org/docs/current/static/tutorial.html)
 * [postgresqltutorial](http://www.postgresqltutorial.com/)
