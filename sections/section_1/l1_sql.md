@@ -268,7 +268,7 @@ SELECT
   animals_id, 
   acquisition_time, 
   coalesce(longitude, 0) AS longitude_with_0, 
-  coalesce(latitude, 0) AS latitude_with_0,
+  coalesce(latitude, 0) AS latitude_with_0
 FROM 
   main.gps_data_animals 
 LIMIT 100;
